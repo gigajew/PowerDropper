@@ -1,5 +1,8 @@
 # PowerDropper
 
+# Donate using Bitcoin!
+Donations: bitcoin:12FP1JisjYCsgfteTLMQQMLnVBs65wZD8G
+
 ## Screenshots
 ![Powerdropper UI](https://i.imgur.com/LmtxYWJ.png)
 
